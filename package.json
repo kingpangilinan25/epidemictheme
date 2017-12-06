@@ -1,0 +1,29 @@
+{
+  "name": "epidemicmarketing",
+  "version": "1.0.0",
+  "description": "A epidemic underscores-based theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingpangilinan25/epidemictheme.git"
+  },
+  "keywords": [
+    "sass",
+    "epidemic"
+  ],
+  "author": "King Pangilinan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingpangilinan25/epidemictheme/issues"
+  },
+  "homepage": "https://github.com/kingpangilinan25/epidemictheme#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
